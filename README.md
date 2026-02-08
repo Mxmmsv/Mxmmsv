@@ -16,7 +16,3 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-## GitHub Stats
-
-![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mxmmsv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
